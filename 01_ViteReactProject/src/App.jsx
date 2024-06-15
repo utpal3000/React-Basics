@@ -2,10 +2,12 @@ import Morning from "./Morning"
 
 
 function App() {
+  let username = 'utpal'
   return (
-    <>pDragron
-    <hr/>
-    <Morning/>
+    <>pDragron {username}
+    // here username is evaluated expression
+      <hr />
+      <Morning />
     </>
   )
 }
