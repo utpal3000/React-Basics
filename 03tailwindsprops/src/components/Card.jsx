@@ -1,8 +1,9 @@
 import React from 'react'
 
-function card({username,txtbtn}) {
+function card({username,txtbtn='Visit Me'}) {
   // console.log(props.username);
   // instead we used destructuring
+  // default props val.
   return (
     
     <div class="relative h-[400px] w-[300px] rounded-md">
