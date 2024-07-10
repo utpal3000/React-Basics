@@ -43,3 +43,17 @@ Course source code - url [https://github.com/hiteshchoudhary/chai-aur-react]
     // Thus does the counter update one by one 
   }
   ```
+
+  ### Learnings:
+
+ **1. BG Changer :**
+
+      - In the project bgchanger we used react usestate and onlclick. Where we understand how state of color is being updated and how onclick funtion takes the setColor function and changes the background of the page.
+
+  2. **Password generator :**
+
+      - In this we will learn about useEffect, useRef and useCallBack.
+      - 
+
+  
+  3. 
